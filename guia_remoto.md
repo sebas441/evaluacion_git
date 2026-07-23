@@ -10,4 +10,7 @@ Primero el comando git remote add origin y el URL de tu repositorio para verific
 
 Primero toca tener archivos dentro de una carpeta pues con algo escrito no se como archivo = holamundo o así escribirle algo en vim o notepad como hola soy Sebastian salirte y hacer git add . si quieres agregar todo o git add holamundo que sera el nombre de tu archivo que quieres subir mirar como esta con git status si esta en verde haces git commit -m "cualquier cosa" y se subira luego haces git push y si es laprimera vez tienes que hacer git pull para poderlo subir por primera vez o eso fue lo que me paso al inicio y entendí.  
 
-
+![Imagen 3](img3.png)
+![Imagen 4](img4.png)
+![Imagen 5](img5.png)
+![Imagen 6](img6.png)
