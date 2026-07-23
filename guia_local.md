@@ -6,8 +6,12 @@ pwd = para saber donde estamos y navegar
 mkdir + cualquier nombre = para crear carpetas  
 touch + cualquier nombre = para generar archivos si dejas espacios se crean más de un archivo por eso casi siempre se usa (_)  
 
-![image](Captura de pantalla 2026-07-23 100713.png)
 ## El comando exacto empleado para inicializar el repositorio local.  
 git init
+
+![Imagen 1](img1.png)
+![Imagen 2](img2.png)
+
+
 
 
